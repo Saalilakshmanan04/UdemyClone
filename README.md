@@ -22,4 +22,4 @@ Course categories and cards
 Clean and minimalist UI design
 
 Fully static frontend clone – no JavaScript used
-You can visit by clicking the following link: 
+You can visit by clicking the following link: https://saalilakshmanan04.github.io/UdemyClone/
