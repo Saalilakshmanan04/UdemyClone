@@ -22,11 +22,4 @@ Course categories and cards
 Clean and minimalist UI design
 
 Fully static frontend clone – no JavaScript used
-
-📁 Folder Structure
-bash
-Copy
-Edit
-├── index.html
-├── style.css
-└── /images
+You can visit by clicking the following link: 
